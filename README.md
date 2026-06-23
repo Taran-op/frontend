@@ -1,3 +1,6 @@
+This project only contains the frontend developed by me.
+
+
 # MeterFlow - Usage-Based API Billing Platform
 
 A full-stack MERN application for API usage tracking, rate limiting, and billing based on API consumption.
